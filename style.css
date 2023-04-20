@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px 50px;
+}
+
+h1 {
+    margin-bottom: 1em;
+}
+
+h2 {
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+}
+
+pre {
+    margin-top: 0;
+}
